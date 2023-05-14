@@ -1,9 +1,9 @@
 ---
-title: Welcome to UemD
+title: Home
 layout: home
 ---
-> Übermittlungsdienst
+> Verbindung um jeden Preis
 
 ### Contact
 
-info@uemd.ch
+<info@uemd.ch>
