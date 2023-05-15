@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jeykill/minima
 title: Übermittlungsdienst
 description: Übermittlungsdienst (UemD)
 email: info@uemd.ch
