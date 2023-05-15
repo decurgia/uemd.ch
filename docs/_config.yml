@@ -1,5 +1,4 @@
-remote_theme: jekyll/minima
-title: UemD
-description: Übermittlungsdienst
-author: Gian Luca Decurtins, Dörflistrasse 68, CH-8050 Zürich
+theme: minima
+title: Übermittlungsdienst
+description: Übermittlungsdienst (UemD)
 email: info@uemd.ch
