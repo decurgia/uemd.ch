@@ -1,5 +1,6 @@
 remote_theme: jekyll/minima
 title: Übermittlungsdienst
 description: Übermittlungsdienst (UemD)
-author.name: UemD
-author.email: info@uemd.ch
+author:
+  name: UemD
+  email: info@uemd.ch
