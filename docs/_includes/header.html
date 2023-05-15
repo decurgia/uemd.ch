@@ -21,7 +21,7 @@
             <div class="trigger">
                 {%- if my_page.logo -%}
                 <svg class="svg-icon grey">
-                    <use xlink:href="{{ my_page.logo | relative_url }}"></use>
+                    <use xlink:href="{{ site.logo | relative_url }}"></use>
                 </svg>
                 {%- endif -%}
                 {%- for path in page_paths -%}
