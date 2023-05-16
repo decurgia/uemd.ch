@@ -1,9 +1,5 @@
 ---
-title: Home
+title: Willkommen
 layout: home
 ---
-> Verbindung um jeden Preis
-
-### Contact
-
-<info@uemd.ch>
+Gesicherter Datentransfer.
