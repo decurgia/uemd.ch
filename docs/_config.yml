@@ -1,7 +1,6 @@
 remote_theme: jekyll/minima
-title: Übermittlungsdienst (UemD)
-logo: /assets/images/uemd-icon.svg
+title: Übermittlungsdienst
 description: Verbindung um jeden Preis
 author:
-  name: Übermittlungsdienst (UemD)
+  name: Übermittlungsdienst
   email: info@uemd.ch
