@@ -3,5 +3,5 @@ layout: home
 ---
 
 {:refdef: style="text-align: center;"}
-![My Image](/assets/images/uemd-icon.svg)
+![UemD Icon - Sonne](/assets/images/uemd-icon.svg)
 {: refdef}
