@@ -1,0 +1,15 @@
+main:
+  - name: Über
+    pageRef: /about
+    weight: 10
+  - name: Services
+    pageRef: /services
+    weight: 20
+
+footer:
+  - name: Impressum
+    pageRef: /legal-notice
+    weight: 10
+  - name: Datenschutzerklärung
+    pageRef: /privacy-statement
+    weight: 20

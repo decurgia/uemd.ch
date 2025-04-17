@@ -1,0 +1,23 @@
+languageCode: de-CH
+languageName: Deutsch
+weight: 10
+title: Übermittlungsdienst
+
+params:
+  displayName: Deutsch
+  isoCode: de
+  description: Daten sicher übermittelt - Verbindung um jeden Preis!
+  keywords:
+    - Übermittlungsdienst
+    - Datentransfer
+    - Dokumententransfer
+    - Schweiz
+    - Zürich
+    - Zürich-Oerlikon
+    - Oerlikon
+  author:
+    image: img/kopf_hell.jpeg
+    name: Übermittlungsdienst
+    headline: Verbindung um jeden Preis!
+    links:
+      - email: mailto:info@uemd.ch
