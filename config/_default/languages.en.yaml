@@ -1,28 +1,22 @@
 languageCode: en-GB
 languageName: English
 weight: 20
-title: Gian Luca Decurtins
+title: Transfer service
 
 params:
   displayName: English
   isoCode: en
-  description: Find out who I am and what I do.
+  description: Data securely transferred – connection at all costs!
   keywords:
-    - Personal website
-    - Gian Luca Decurtins
-    - Decurtins
+    - Transfer service
+    - Document storage
+    - Switzerland
     - Zurich
     - Zurich-Oerlikon
     - Oerlikon
-    - 17
   author:
     image: img/kopf_hell.jpeg
-    name: Gian Luca Decurtins
+    name: Transfer service
     headline: Zurich-Oerlikon
     links:
-      - email: mailto:gld@g17s.ch
-      - linkedin: https://linkedin.com/in/g17s/
-      - strava: https://strava.com/athletes/g17s/
-      - soundcloud: https://soundcloud.com/gianurban/
-      - facebook: https://facebook.com/decurgia17/
-      - github: https://github.com/decurgia/
+      - email: mailto:info@uemd.ch
