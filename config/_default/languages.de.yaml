@@ -1,13 +1,14 @@
 languageCode: de-CH
 languageName: Deutsch
 weight: 10
-title: Übermittlungsdienst
+title: Übermittlungsdienst (UemD)
 
 params:
   displayName: Deutsch
   isoCode: de
   description: Daten sicher übermittelt - Verbindung um jeden Preis!
   keywords:
+    - UemD
     - Übermittlungsdienst
     - Dokumentenspeicher
     - Schweiz
