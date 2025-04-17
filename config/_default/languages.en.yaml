@@ -15,7 +15,7 @@ params:
     - Zurich-Oerlikon
     - Oerlikon
   author:
-    image: img/kopf_hell.jpeg
+    image: img/uemd-icon-512x512.png
     name: Transfer service
     headline: Connection at all costs!
     links:
