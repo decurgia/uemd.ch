@@ -21,3 +21,4 @@ params:
     headline: Connection at all costs!
     links:
       - email: mailto:info@uemd.ch
+      - drive: https://drive.uemd.ch
