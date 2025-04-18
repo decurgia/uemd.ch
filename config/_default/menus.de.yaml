@@ -2,7 +2,7 @@ main:
   - name: Über
     pageRef: /about
     weight: 10
-  - name: Services
+  - name: Dienstleistungen
     pageRef: /services
     weight: 20
 

@@ -8,18 +8,17 @@ layout: simple
 
 Die Dienstleistungen vom Übermittlungsdienst:
 
-## Drive – Sicherer Datenaustausch und gemeinsames Arbeiten an Dokumenten
+## Drive – Sicherer Datenaustausch und gemeinsames Bearbeiten von Dokumenten
 
-Mit **Drive** bieten wir Ihnen eine leistungsstarke Plattform für den sicheren Austausch sensibler Daten sowie das einfache Erstellen, Bearbeiten und Verwalten von Dokumenten – alles an einem Ort.
+Mit **Drive**, erreichbar unter [drive.uemd.ch](https://drive.uemd.ch), stellen wir Ihnen eine leistungsstarke und sichere Plattform für den Austausch sensibler Daten sowie das gemeinsame Erstellen und Bearbeiten von Dokumenten zur Verfügung – alles an einem Ort.
 
-**Drive** ermöglicht es Teams und Partnern, effizient zusammenzuarbeiten, ohne Kompromisse bei Sicherheit und Datenschutz einzugehen. Ob im Büro oder unterwegs: Ihre Daten sind jederzeit geschützt, versioniert und jederzeit abrufbar.
+Die Lösung basiert auf [Synology Drive](https://www.synology.com/de-de/dsm/feature/drive) und ermöglicht eine nahtlose Zusammenarbeit, ob im Büro oder unterwegs. Ihre Daten sind stets verschlüsselt, versioniert und einfach zugänglich.
 
-Ihre Vorteile mit **Drive**:
+**Ihre Vorteile mit Drive:**
 
-- 🔒 Geschützter Dateiaustausch über verschlüsselte Verbindungen
-- 🤝 Gemeinsames Arbeiten in Echtzeit
-- 📁 Zentrale Dokumentenverwaltung mit Versionskontrolle
-- 👥 Einfache Rechteverwaltung für Nutzer und Gruppen
+- 🔒 Verschlüsselter Dateiaustausch für maximale Sicherheit
+- 🤝 Gemeinsames Bearbeiten von Dokumenten in Echtzeit
+- 📁 Zentrale Dokumentenablage mit Versionsverlauf
+- 👥 Intuitive Rechteverwaltung für Nutzer und Gruppen
 
-- Webseite: [drive.uemd.ch](https://drive.uemd.ch)
-- Technologie: [Synology Drive](https://www.synology.com/de-de/dsm/feature/drive)
+Jetzt loslegen unter **[drive.uemd.ch](https://drive.uemd.ch)**.

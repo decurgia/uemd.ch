@@ -10,16 +10,15 @@ The services of the transfer service:
 
 ## Drive – Secure Data Exchange and Collaborative Document Editing
 
-With **Drive**, we provide a powerful platform for the secure exchange of sensitive data, as well as easy creation, editing, and management of documents – all in one place.
+With **Drive**, available at [drive.uemd.ch](https://drive.uemd.ch), we offer a powerful and secure platform for exchanging sensitive data and working collaboratively on documents – all in one place.
 
-**Drive** enables teams and partners to collaborate efficiently without compromising on security or data privacy. Whether in the office or on the go – your data is always protected, versioned, and accessible.
+Powered by [Synology Drive](https://www.synology.com/en-us/dsm/feature/drive), the service enables seamless teamwork and document management, whether you're in the office or working remotely. Your data is always encrypted, version-controlled, and easily accessible.
 
-**Your benefits with Drive:**
+**Key benefits of Drive:**
 
-- 🔒 Secure file exchange via encrypted connections
-- 🤝 Real-time collaborative editing
-- 📁 Centralized document management with version control
-- 👥 Easy user and group permissions management
+- 🔒 Encrypted file exchange for maximum security
+- 🤝 Real-time collaboration on documents
+- 📁 Centralized document storage with version history
+- 👥 Intuitive user and group permission management
 
-- Website: [drive.uemd.ch](https://drive.uemd.ch)
-- Technology: [Synology Drive](https://www.synology.com/en-us/dsm/feature/drive)
+Start collaborating today at **[drive.uemd.ch](https://drive.uemd.ch)**.
