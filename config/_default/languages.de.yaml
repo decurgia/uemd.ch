@@ -16,7 +16,7 @@ params:
     - Zürich-Oerlikon
     - Oerlikon
   author:
-    image: img/uemd-icon-525x525.png
+    image: img/uemd-icon.png
     name: Übermittlungsdienst
     headline: Verbindung um jeden Preis!
     links:
