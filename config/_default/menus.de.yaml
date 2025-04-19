@@ -1,6 +1,6 @@
 main:
-  - name: Über
-    pageRef: /about
+  - name: Über uns
+    pageRef: /about-us
     weight: 10
   - name: Dienstleistungen
     pageRef: /services

@@ -1,6 +1,6 @@
 ---
-title: About
-slug: about
+title: About us
+slug: about-us
 date: "2025-04-19T09:00:00+02:00"
 type: page
 layout: simple
