@@ -6,25 +6,23 @@ type: page
 layout: simple
 ---
 
-## Über uns
+**Digital. Simple. Reliable. – From Switzerland, for Switzerland.**
 
-**Digital. Einfach. Zuverlässig. – Aus der Schweiz, für die Schweiz.**
+**Transfer service** is your digital partner for modern IT services – specifically designed to meet the needs of **clubs**, **small and medium-sized businesses (SMEs)**, and organizations in **sports, politics, and culture**.
 
-Der **Übermittlungsdienst** ist Ihr digitaler Partner für moderne IT-Services – speziell entwickelt für die Bedürfnisse von **Vereinen**, **kleinen und mittleren Unternehmen (KMU)** sowie Organisationen aus den Bereichen **Sport, Politik und Kultur**.
+We offer secure, privacy-compliant, and user-friendly solutions – all operated from Switzerland:
 
-Wir bieten aus der Schweiz heraus sichere, datenschutzkonforme und benutzerfreundliche Lösungen – darunter:
+- **Cloud storage solutions (Drive)** for efficient collaboration
+- **Communication and administration tools** tailored for associations
+- **Custom IT support** for SMEs
+- **Digital infrastructure** with a focus on privacy, simplicity, and sustainability
 
-- **Cloud-Speicherlösungen (Drive)** für effiziente Zusammenarbeit
-- **Kommunikations- und Verwaltungsdienste** für Vereine
-- **Individuelle IT-Unterstützung** für KMU
-- **Digitale Infrastruktur** mit Fokus auf Datenschutz, Einfachheit und Nachhaltigkeit
+Our mission: technology that just works – **no fluff**, but **full of heart and clarity**.  
+We understand the challenges of smaller organizations because we come from the same background.
 
-Unser Ziel: Technik, die einfach funktioniert – **ohne Schnickschnack**, aber **mit Herz und Verstand**.  
-Wir verstehen die Herausforderungen kleiner Organisationen, weil wir selbst aus diesem Umfeld stammen.
-
-Ob Sportverein, politische Gruppierung oder lokales Unternehmen – wir helfen Ihnen, **digital besser aufgestellt** zu sein.  
-Ganz ohne Grosskonzern-Komplexität. Dafür mit **persönlichem Support** und **echtem Engagement**.
+Whether you're a sports club, a political group, or a local business – we're here to help you **thrive in the digital world**.  
+No corporate complexity – just **personal support** and **real commitment**.
 
 ---
 
-**Übermitteln wir gemeinsam Ihre Ideen in die digitale Zukunft.**
+**Let’s transfer your ideas into the digital future – together.**
