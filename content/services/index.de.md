@@ -6,7 +6,8 @@ type: page
 layout: simple
 ---
 
-Die Dienstleistungen vom Übermittlungsdienst:
+**Interessiert an unseren Dienstleistungen?**  
+Kontaktieren Sie uns gerne unter [info@uemd.ch](mailto:info@uemd.ch), wenn Sie Kunde werden möchten oder weitere Informationen wünschen.
 
 ## Drive – Sicherer Datenaustausch und gemeinsames Bearbeiten von Dokumenten
 

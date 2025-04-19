@@ -6,7 +6,8 @@ type: page
 layout: simple
 ---
 
-The services of the transfer service:
+**Interested in our services?**  
+Feel free to contact us at [info@uemd.ch](mailto:info@uemd.ch) if you would like to become a customer or need more information.
 
 ## Drive – Secure Data Exchange and Collaborative Document Editing
 
