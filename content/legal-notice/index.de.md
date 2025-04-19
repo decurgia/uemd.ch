@@ -1,14 +1,14 @@
 ---
 title: Impressum
 slug: impressum
-date: "2024-07-08T16:00:00+02:00"
+date: "2025-04-19T09:00:00+02:00"
 type: page
 layout: simple
 ---
 
 ## Kontakt
 
-Gian Luca Decurtins, 8050 Zürich, Schweiz
+[Gian Luca Decurtins](https://g17s.ch), 8050 Zürich, Schweiz
 
 info@uemd.ch
 

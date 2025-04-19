@@ -1,14 +1,14 @@
 ---
 title: Legal notice
 slug: legal-notice
-date: "2024-07-08T16:00:00+02:00"
+date: "2025-04-19T09:00:00+02:00"
 type: page
 layout: simple
 ---
 
 ## Contact
 
-Gian Luca Decurtins, 8050 Zurich, Switzerland
+[Gian Luca Decurtins](https://g17s.ch), 8050 Zurich, Switzerland
 
 info@uemd.ch
 
