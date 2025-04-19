@@ -12,7 +12,7 @@ The services of the transfer service:
 
 With **Drive**, available at [drive.uemd.ch](https://drive.uemd.ch), we offer a powerful and secure platform for exchanging sensitive data and working collaboratively on documents – all in one place.
 
-Powered by [Synology Drive](https://www.synology.com/en-us/dsm/feature/drive), the service enables seamless teamwork and document management, whether you're in the office or working remotely. Your data is always encrypted, version-controlled, and easily accessible.
+Powered by [Synology Drive](https://www.synology.com/en-us/dsm/feature/drive), the service enables seamless teamwork and document management, whether you're in the office or working remotely. Your data is always transferred encrypted, version-controlled, and easily accessible.
 
 **Key benefits of Drive:**
 
