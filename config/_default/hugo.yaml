@@ -1,0 +1,10 @@
+theme: blowfish
+baseURL: https://uemd.ch
+defaultContentLanguage: de
+enableRobotsTXT: true
+minify: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
